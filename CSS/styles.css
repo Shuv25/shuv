@@ -1,0 +1,284 @@
+body{
+  margin-top: 0;
+  background-color:#D4ECDD;
+  text-align: center;
+}
+.top-container{
+  position:relative;
+}
+.mid-container{
+  margin:50px 0;
+  position: relative;
+}
+.bottom-container{
+  position: relative;
+  padding-bottom: 20px;
+}
+.paradise{
+  position: absolute;
+  height: 500px;
+  width: 1300px;
+  left: 22.5px;
+}
+.hotel{
+  position: absolute;
+  left: 870px;
+  top: 105px;
+  color: white;
+  line-height: 3;
+  font-style: italic;
+  text-shadow: 1px 1px 3px black;
+}
+.first{
+  color:white;
+  text-shadow: 2px 2px 3px black;
+}
+.valery{
+  width: 1300px;
+  height: 580px;
+  margin-top: 490px;
+  margin-left: 16px;
+}
+.about{
+  position: absolute;
+  top: 540px;
+  left: 520px;
+  color:white;
+  font-size: 3rem;
+  text-shadow: 2px 2px 3px black;
+}
+.pro{
+  position: absolute;
+  top: 650px;
+  left: 490px;
+  font-size: 1.8rem;
+  color: white;
+  text-shadow: 1px 1px 3px black;
+}
+a{
+  color:white;
+  text-shadow: 2px 2px 3px black;
+}
+.insta{
+  position: absolute;
+  margin-left: 10px;
+}
+.room{
+  position: absolute;
+  top: 10px;
+  left: 100px;
+  color: white;
+  text-shadow: 2px 2px 3px black;
+}
+.contact{
+  position: absolute;
+  top: 10px;
+  left: 1140px;
+  color:white;
+  text-shadow: 2px 2px 3px black;
+}
+.my{
+  position: absolute;
+  top: 30px;
+  left: 1140px;
+  color:white;
+  text-shadow: 2px 2px 3px black;
+  font-size: 1.3rem;
+}
+.room{
+  font-size: 1.2rem;
+}
+.contact{
+  font-size: 1.2rem;
+}
+.first-container{
+  position: relative;
+}
+.second-container{
+  position: relative;
+  padding-bottom: 20px;
+}
+.header1{
+  position: absolute;
+  left: 10px;
+  color: white;
+  text-shadow: 2px 2px 3px black;
+}
+.header2{
+  position: absolute;
+  top: 390px;
+  left: 475px;
+  color: white;
+  text-shadow: 2px 2px 3px black;
+  font-size: 1.3rem;
+}
+.header3{
+  position: absolute;
+  top: 450px;
+  left: 10px;
+  color: white;
+  text-shadow: 2px 2px 3px black;
+}
+.header4{
+  position: absolute;
+  top: 850px;
+  left: 475px;
+  color: white;
+  text-shadow: 2px 2px 3px black;
+  font-size: 1.3rem;
+}
+.header5{
+  position: absolute;
+  top: 910px;
+  left: 10px;
+  color: white;
+  text-shadow: 2px 2px 3px black;
+}
+.header6{
+  position:absolute;
+  top: 1310px;
+  left:475px;
+  color: white;
+  text-shadow: 2px 2px 3px black;
+  font-size: 1.3rem;
+}
+.line{
+  margin-top: 50px;
+  border-color: white;
+  border-width:2px;
+}
+.line2{
+  margin-top:370px;
+  border-color: white;
+  border-width: 2px;
+}
+.line3{
+  margin-top: 80px;
+  border-color: white;
+  border-width: 2px;
+}
+.line4{
+  margin-top: 370px;
+  border-color: white;
+  border-width: 2px;
+}
+.line5{
+  margin-top: 80px;
+  border-color: white;
+  border-width: 2px;
+}
+.line6{
+  margin-top: 380px;
+  border-color: white;
+  border-width: 2px;
+}
+.standard1{
+  position:absolute;
+  width:400px;
+  height:300px;
+  left: 10px;
+}
+.standard2{
+  position: absolute;
+  width: 400px;
+  height: 300px;
+  left: 940px;
+}
+.standard3{
+  position: absolute;
+  width: 400px;
+  height:300px;
+  left: 475px;
+}
+.standard4{
+  position: absolute;
+  width: 400px;
+  height: 300px;
+  left: 10px;
+}
+.standard5{
+  position: absolute;
+  width: 400px;
+  height: 300px;
+  left: 475px;
+}
+.standard6{
+  position: absolute;
+  width: 400px;
+  height:300px;
+  left: 940px;
+}
+.standard7{
+  position:absolute;
+  width:400px;
+  height: 300px;
+  left: 10px;
+}
+.standard8{
+  position: absolute;
+  width: 400px;
+  height: 300px;
+  left: 475px;
+}
+.standard9{
+  position: absolute;
+  width: 400px;
+  height: 300px;
+  left: 940px;
+}
+.pehla-container{
+  position: relative;
+}
+.Address{
+  position:absolute;
+  left:534px;
+}
+.text1{
+  position: absolute;
+  left:627.5px;
+}
+.rm{
+  position: absolute;
+  left:557px;
+}
+.no{
+  position: absolute;
+  left: 627.5px;
+}
+.check{
+  position: absolute;
+  left: 532px;
+}
+.date{
+  position: absolute;
+  left: 627.5px;
+}
+.checkout{
+  position: absolute;
+  left: 524px;
+}
+.time1{
+  position: absolute;
+  left:627.5px;
+}
+.pay{
+  position: absolute;
+  left:567px
+}
+.ment{
+  position: absolute;
+  left: 627.5px;
+}
+.yr{
+  position:absolute;
+  left: 533px;
+}
+.text2{
+  position: absolute;
+  left: 627.5px;
+}
+.sub{
+  position: absolute;
+  top: 500px;
+  left: 628px;
+}
